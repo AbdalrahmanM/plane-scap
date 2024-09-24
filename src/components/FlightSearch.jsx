@@ -77,7 +77,6 @@ const FlightSearch = () => {
 
       <div className="flex justify-between items-center bg-white p-4 rounded-lg shadow-md mb-6">
         <div className="flex items-center">
-          <img src="/logo.png" alt="Logo" className="w-12 h-12 mr-4" />
           <h1 className="text-xl font-bold">Plane Scape</h1>
         </div>
         <div className="flex space-x-4">
